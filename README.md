@@ -27,5 +27,6 @@ O layout final deverá ficar o mais próximo possível da versão abaixo (sim, v
 
 ![image](https://user-images.githubusercontent.com/36651634/185266757-e4f803e7-b2a3-4736-b771-7e445a26f1b8.png)
 
-Boa sorte! 
- 
+## O que vamos avaliar
+- O nível de fidelidade ao layout apresentado;
+- O nível de escalabilidade do seu código ( padronização do código)
