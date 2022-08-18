@@ -1,6 +1,5 @@
 # Bem-vindo ao desafio técnico da Destina!
 
-## Destina: você onde quiser
 Somos uma Travel Tech especialista no desenvolvimento e comercialização de experiências turísticas para viajantes domésticos.Estabelecemos uma relação sustentável de geração de valor entre clientes finais e stakeholders.
 
 ## Aprendizado e desenvolvimento
