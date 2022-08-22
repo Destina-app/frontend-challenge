@@ -21,11 +21,12 @@ Aceita um cafézinho?
 <img src="https://imageproxy.ifunny.co/crop:x-20,resize:640x,quality:90x75/images/3b01ff263a8d9f6eb5c4fdbc732c20612aba70a8c212d38be1e20810149c629a_1.jpg"  width="400" height="500">
 <br>
 
-O objetivo é replicar a estrutura da tela "Página do Carrinho", você tem toda a liberdade para definir o design mas queremos que a **estrutura** seja fiel ao do prótotipo: https://www.figma.com/file/rET9F2CeUEJdiVN7JRu993/E-commerce---capputeeno?node-id=680%3A6449
+O objetivo é replicar a estrutura da tela "Página do Produto", você tem toda a liberdade para definir o design mas queremos que a **estrutura** seja fiel ao do prótotipo: https://www.figma.com/file/rET9F2CeUEJdiVN7JRu993/E-commerce---capputeeno?node-id=680%3A6449
 
-O layout final deverá ficar o mais próximo possível da versão abaixo (sim, vamos ter a versão responsiva mobile e a versão desktop):
+O layout final deverá ficar o mais próximo possível da versão abaixo (pense na responsividade mobile e desktop):
 
-![image](https://user-images.githubusercontent.com/36651634/185266757-e4f803e7-b2a3-4736-b771-7e445a26f1b8.png)
+![image](https://user-images.githubusercontent.com/36651634/186029430-33530c06-c171-479b-b6fd-59df28aa1ef4.png)
+
 
 ## O que vamos avaliar
 - O nível de fidelidade ao layout apresentado;
